@@ -1,0 +1,155 @@
+
+
+body{
+    background-color: rgb(208, 219, 228);
+    padding: 100;
+    margin: 10px;
+}
+
+
+
+
+
+.navbar{
+    
+    padding: 17px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 10;
+    background-color: aqua;
+
+
+}
+
+.links{
+    display: flex;
+    gap: 40px;
+
+}
+
+.links a{
+    color: brown;
+    text-decoration: none;
+
+}
+
+.links a:hover{
+    border-radius: 7px;
+    color: darkblue;
+    background-color: white;
+    padding: 7px;
+
+
+}
+
+.yes{
+    color: rgb(235, 18, 18);
+    
+    border-radius: 2px;
+    padding: 3px 7px;
+    margin-right: 100;
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+.notes{
+
+    align-items: center;
+  
+    text-align: center;
+}
+
+.landing1{
+    
+    padding: 10px;
+    border-radius: 15px;
+    align-content: center;
+    display: flex;
+    height: 500px;
+
+}
+
+.landing2{
+    
+    border-radius: 10;
+    padding: 100;
+    margin: 100;
+    margin-top: 15;
+    align-content: center;
+    display: flex;
+    height: 500px;
+}
+
+.landing3{
+    
+    padding: 10px;
+    border-radius: 15px;
+    align-content: center;
+    display: flex;
+   height: 500px;
+
+}
+
+
+.column2{
+    
+    background-color: rgb(150, 182, 182);
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    height: 300px;
+}
+
+
+.column1{
+
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+
+
+.simon{
+    display: flex;
+    justify-content: center;
+}
+
+.columnx{
+
+    background-color: rgb(150, 182, 182);
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+}
+
+.columny{
+
+    
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.footer{
+    
+    text-align: justify;
+    display: flex;
+
+    flex-direction: row;
+}
