@@ -149,7 +149,9 @@ body{
 .footer{
     
     text-align: justify;
+    align-items: center;
     display: flex;
+    align-items: center;
 
     flex-direction: row;
 }
